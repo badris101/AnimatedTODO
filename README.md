@@ -2,4 +2,4 @@
 
 Animated TODO React Native App with Reanimated2 and React Native Gesture Handler
 
-![alt-text](https://github.com/badris101/AnimatedTODO/blob/master/src/assets/todo.gif)
+<img src="https://github.com/badris101/AnimatedTODO/blob/master/src/assets/todo.gif" width="300">
