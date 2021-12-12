@@ -1,3 +1,5 @@
-# Animated TODO React Native App with Reanimated2 and React Native Gesture Handler
+# Smoothly Animated ToDo App built with React Native
 
-Smoothly Animated ToDo App built with React Native
+Animated TODO React Native App with Reanimated2 and React Native Gesture Handler
+
+![alt-text](https://github.com/badris101/AnimatedTODO/blob/master/src/assets/todo.gif)
